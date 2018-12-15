@@ -1,0 +1,34 @@
+PING learnenough.com (104.25.168.34): 56 data bytes
+64 bytes from 104.25.168.34: icmp_seq=0 ttl=54 time=12.700 ms
+64 bytes from 104.25.168.34: icmp_seq=1 ttl=54 time=12.073 ms
+64 bytes from 104.25.168.34: icmp_seq=2 ttl=54 time=12.155 ms
+64 bytes from 104.25.168.34: icmp_seq=3 ttl=54 time=11.071 ms
+64 bytes from 104.25.168.34: icmp_seq=4 ttl=54 time=14.590 ms
+64 bytes from 104.25.168.34: icmp_seq=5 ttl=54 time=12.720 ms
+64 bytes from 104.25.168.34: icmp_seq=6 ttl=54 time=11.909 ms
+64 bytes from 104.25.168.34: icmp_seq=7 ttl=54 time=10.969 ms
+64 bytes from 104.25.168.34: icmp_seq=8 ttl=54 time=14.295 ms
+64 bytes from 104.25.168.34: icmp_seq=9 ttl=54 time=11.303 ms
+64 bytes from 104.25.168.34: icmp_seq=10 ttl=54 time=11.466 ms
+64 bytes from 104.25.168.34: icmp_seq=11 ttl=54 time=52.381 ms
+64 bytes from 104.25.168.34: icmp_seq=12 ttl=54 time=12.193 ms
+64 bytes from 104.25.168.34: icmp_seq=13 ttl=54 time=12.820 ms
+64 bytes from 104.25.168.34: icmp_seq=14 ttl=54 time=12.641 ms
+64 bytes from 104.25.168.34: icmp_seq=15 ttl=54 time=13.297 ms
+64 bytes from 104.25.168.34: icmp_seq=16 ttl=54 time=12.570 ms
+64 bytes from 104.25.168.34: icmp_seq=17 ttl=54 time=13.523 ms
+64 bytes from 104.25.168.34: icmp_seq=18 ttl=54 time=11.988 ms
+64 bytes from 104.25.168.34: icmp_seq=19 ttl=54 time=11.180 ms
+64 bytes from 104.25.168.34: icmp_seq=20 ttl=54 time=12.130 ms
+64 bytes from 104.25.168.34: icmp_seq=21 ttl=54 time=11.796 ms
+64 bytes from 104.25.168.34: icmp_seq=22 ttl=54 time=11.178 ms
+64 bytes from 104.25.168.34: icmp_seq=23 ttl=54 time=21.150 ms
+64 bytes from 104.25.168.34: icmp_seq=24 ttl=54 time=11.963 ms
+64 bytes from 104.25.168.34: icmp_seq=25 ttl=54 time=20.373 ms
+64 bytes from 104.25.168.34: icmp_seq=26 ttl=54 time=11.294 ms
+64 bytes from 104.25.168.34: icmp_seq=27 ttl=54 time=10.533 ms
+64 bytes from 104.25.168.34: icmp_seq=28 ttl=54 time=12.421 ms
+
+--- learnenough.com ping statistics ---
+29 packets transmitted, 29 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 10.533/14.161/52.381/7.598 ms

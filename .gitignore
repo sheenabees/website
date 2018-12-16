@@ -1,1 +1,10 @@
+#ignores all the following files
+#NOT to be added to git
+
+# when checking with "git status", all files listed
+here will be ignored for git
+
 *.txt
+.DS_Store
+*~
+tmp
